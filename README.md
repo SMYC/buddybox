@@ -47,6 +47,10 @@ Find below suggested hardware and software for this project. Recommendations are
 Ideas are unlimited and there are so many amazing things to add or start a new project with.
 In other to contribute to this project. Do the following:
 - Clone the repository with "git clone https://github.com/SMYC/buddybox"
+- Enter repository directory with "cd buddybox"
+- Switch to branch **build** with "git checkout branch build"
+- Make changes and commit them.
+- Push changes to remote repository. Or create a pull-request
 
 
 ## Recommendations and Conclusion
