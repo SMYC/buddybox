@@ -1,6 +1,6 @@
 # BuddyBox
 
-<img src="./images/smyc.jpg" alt="smyc" width="500px"> ![Raspberrypi](./images/raps.png  "RaspberryPi")
+<img src="./images/smyc.jpg" alt="smyc" width="400px"> ![Raspberrypi](./images/raps.png  "RaspberryPi")
 
 ## Introduction
 This project is part of the **Silicon Mountain Yocto-Project Community (SMYC)**. We are a group of opensource enthusiast interested in building light weight Linux distributions. We embed our operating systems in customized hardware to solve problems peculiar to our region; Cameroon, Central Africa and Africa at large.
