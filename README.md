@@ -6,7 +6,7 @@
 This project is part of the **Silicon Mountain Yocto-Project Community (SMYC)**. We are a group of opensource enthusiast interested in building light weight Linux distributions. We embed our operating systems in customized hardware to solve problems peculiar to our region; Cameroon, Central Africa and Africa at large.
 
 ## BuddyBox
-It is an electronic electronic device as small as matrix cube with a customized light weight Linux operating system. It is initially conceived to be used primarily in our classrooms. It allows a teacher/lecturer to share his laptop’s screen with students during presentations and lectures in big size classrooms like Amphitheatre 700 and 600 of the University of Buea. It allows the lecturer to collect student assignments by allowing them to simply upload the assignments to Buddybox FTP server.
+It is an electronic device as small as matrix cube with a customized light weight Linux operating system. It is initially conceived to be used primarily in our classrooms. It allows a teacher/lecturer to share his laptop’s screen with students during presentations and lectures in big size classrooms like Amphitheatre 700 and 600 of the University of Buea. It allows the lecturer to collect student assignments by allowing them to simply upload the assignments to Buddybox FTP server.
 
 **How does it work?**
 1. In a classroom, the lecturer will switch on a wireless enabled raspberry pi that hosts the light weight operating system comprising of multiple opensource platforms that incorporates the features of Buddybox.
