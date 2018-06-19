@@ -10,7 +10,7 @@ It is an electronic device as small as matrix cube with a customized light weigh
 
 **How does it work?**
 1. In a classroom, the lecturer will switch on a wireless enabled raspberry pi that hosts the light weight operating system comprising of multiple opensource platforms that incorporates the features of Buddybox.
-2. Students connect to the SSID from Buddybox. Their browser automatically opens up to the login page of the Buddybox which gives them access to a virtual learning environment ([Moodle](https://mo)).
+2. Students connect to the SSID from Buddybox. Their browser automatically opens up to the login page of the Buddybox which gives them access to a virtual learning environment ([Moodle](https://moodle)).
 3. The lecturer decides on when to start broadcasting the power point prior to scheduling class on the platform. Upon broadcast (Live classroom session), students will be able to see the presentation done by the lecturer using his power point slides.
 4. On the platform, students can chat amongst themselves, upload and save assignments for which the lecturer can correct subsequently.
 5. Attendance can even be collected on the platform.
@@ -48,7 +48,7 @@ Ideas are unlimited and there are so many amazing things to add or start a new p
 In other to contribute to this project. Do the following:
 - Clone the repository with "git clone https://github.com/SMYC/buddybox"
 - Enter repository directory with "cd buddybox"
-- Switch to branch **build** with "git checkout branch build"
+- Switch to branch **build** with "git checkout build"
 - Make changes and commit them.
 - Push changes to remote repository. Or create a pull-request
 
